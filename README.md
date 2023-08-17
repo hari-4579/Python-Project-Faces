@@ -1,2 +1,2 @@
-# Python-Project-pillow-opencv
-Two projects based on using the pillow and opencv libraries
+# Python-Project-Faces
+Python project to search and detect faces and texts
